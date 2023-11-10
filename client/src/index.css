@@ -1,0 +1,26 @@
+body {
+  background-color: #f2f8ff !important;
+}
+.text-pink {
+  color: #fe6777 !important;
+}
+.bg-pink {
+  background-color: #fe6777 !important;
+}
+.custom-shadow {
+  box-shadow: 0 6px 30px rgba(182, 186, 203, 0.3) !important;
+}
+tr th {
+  padding: 20px 8px !important;
+  background-color: #fe6777 !important;
+  color: #ffff !important;
+}
+.customer-page {
+  margin: 50px !important;
+}
+
+@media (max-width: 720px) {
+  .customer-page {
+    margin: 20px !important;
+  }
+}
